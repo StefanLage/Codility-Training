@@ -13,3 +13,12 @@ Name            | Programming Language | Difficulty | Score (%)
 TapeEquilibrium | C                    | Easy       |100
 FrogJmp         | C                    | Easy       |100
 PermMissingElem | C                    | Easy       |100
+
+
+### 2 - Counting Elements
+
+Name         | Programming Language | Difficulty | Score (%)
+------------ | :------------------: | :--------: | :------------:
+PermCheck    | Objective C          | Easy       |100
+FrogRiverOne | Objective C          | Easy       |100
+MaxCounters  | Objective C          | Medium     |100
