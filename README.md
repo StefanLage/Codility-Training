@@ -22,3 +22,12 @@ Name         | Programming Language | Difficulty | Score (%)
 PermCheck    | Objective C          | Easy       |100
 FrogRiverOne | Objective C          | Easy       |100
 MaxCounters  | Objective C          | Medium     |100
+
+
+### 3 - Prefix Sums
+
+Name         | Programming Language | Difficulty | Score (%)
+------------ | :------------------: | :--------: | :------------:
+PassingCars  |  C                   | Easy       |100
+Coming soon  | Coming soon          | Coming soon|Coming soon
+Coming soon  | Coming soon          | Coming soon|Coming soon
