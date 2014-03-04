@@ -38,5 +38,5 @@ MinAvgTwoSlice    | C                    | Medium     |100
 Name               | Programming Language | Difficulty | Score (%)
 ------------------ | :------------------: | :--------: | :------------:
 MaxProductsOfThree | Objective C          | Easy       |100
-Triangle           | ???                  | Medium     |???
+Triangle           | Objective C          | Medium     |93
 beta2010           | ???                  | Hard       |???
