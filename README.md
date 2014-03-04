@@ -26,8 +26,8 @@ MaxCounters  | Objective C          | Medium     |100
 
 ### 3 - Prefix Sums
 
-Name         | Programming Language | Difficulty | Score (%)
------------- | :------------------: | :--------: | :------------:
-PassingCars  |  C                   | Easy       |100
-Coming soon  | Coming soon          | Coming soon|Coming soon
-Coming soon  | Coming soon          | Coming soon|Coming soon
+Name              | Programming Language | Difficulty | Score (%)
+----------------- | :------------------: | :--------: | :------------:
+PassingCars       | C                    | Easy       |100
+GenomicRangeQuery | Objective C          | Medium     |100
+Coming soon       | Coming soon          | Coming soon|Coming soon
