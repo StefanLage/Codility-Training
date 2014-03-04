@@ -31,3 +31,12 @@ Name              | Programming Language | Difficulty | Score (%)
 PassingCars       | C                    | Easy       |100
 GenomicRangeQuery | Objective C          | Medium     |100
 MinAvgTwoSlice    | C                    | Medium     |100
+
+
+### 4 - Sorting
+
+Name               | Programming Language | Difficulty | Score (%)
+------------------ | :------------------: | :--------: | :------------:
+MaxProductsOfThree | Objective C          | Easy       |100
+Triangle           | ???                  | Medium     |???
+beta2010           | ???                  | Hard       |???
