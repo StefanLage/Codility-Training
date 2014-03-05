@@ -44,9 +44,9 @@ beta2010           | ???                  | Hard       |???
 
 ### 5 - Stacks and Queues
 
-Name     | Programming Language | Difficulty | Score (%)
--------- | :------------------: | :--------: | :------------:
-Brackets | Objective C          | Easy       |100
-Nesting  | C                    | Easy       |100
-???      | ???                  | ???        |???
-???      | ???                  | ???        |???
+Name      | Programming Language | Difficulty | Score (%)
+--------- | :------------------: | :--------: | :------------:
+Brackets  | Objective C          | Easy       |100
+Nesting   | C                    | Easy       |100
+Sigma2012 | Objective C          | Medium     |100
+???       | ???                  | ???        |???
