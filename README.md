@@ -40,3 +40,12 @@ Name               | Programming Language | Difficulty | Score (%)
 MaxProductsOfThree | Objective C          | Easy       |100
 Triangle           | Objective C          | Medium     |93
 beta2010           | ???                  | Hard       |???
+
+
+### 5 - Stacks and Queues
+
+Name     | Programming Language | Difficulty | Score (%)
+-------- | :------------------: | :--------: | :------------:
+Brackets | Objective C          | Easy       |100
+???      | ???                  | ???        |???
+???      | ???                  | ???        |???
